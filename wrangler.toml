@@ -1,0 +1,5 @@
+name = "your-site"
+compatibility_date = "2025-06-29"
+
+[site]
+bucket = "./public"
