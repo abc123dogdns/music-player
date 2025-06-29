@@ -1,3 +1,0 @@
-name = "player-worker"
-main = "app.js"   # 或者你的入口文件路径
-compatibility_date = "2025-06-29"
